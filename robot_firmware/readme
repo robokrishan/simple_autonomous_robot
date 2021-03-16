@@ -1,0 +1,5 @@
+This is the firmware directory containing:
+  - the camera firmware (ESP32-Cam)
+  - the robot controller firmware (ESP-32 NodeMCU)
+
+Firmware has been developed in Arduino IDE and is modelled in the Arduino Framework.
